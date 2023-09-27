@@ -1,4 +1,3 @@
-![image](https://github.com/PPythonBasic/Project_Ppython/assets/74919942/d54e0945-9c66-4578-913c-4f56affa6022)<div align="center">
 
 # โปรแกรมจัดการดันเจียน
 
