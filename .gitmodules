@@ -1,3 +1,6 @@
 [submodule "Manage-the-dungeon"]
 	path = Manage-the-dungeon
 	url = https://github.com/PPythonBasic/Manage-the-dungeon
+[submodule "Posing-as-a-detective"]
+	path = Posing-as-a-detective
+	url = https://github.com/PPythonBasic/Posing-as-a-detective
